@@ -200,6 +200,6 @@
 КонецПроцедуры
 
 Инициализировать();
-ВыполнитьПоиск("КонецПроцедуры OR КонецФункции OR КонецЦикла OR КонецЕсли EndProcedure OR EndFunction in:file extension:os");
-ВыполнитьПоиск("КонецПроцедуры OR КонецФункции OR КонецЦикла OR КонецЕсли EndProcedure OR EndFunction in:file extension:bsl");
+ВыполнитьПоиск("КонецПроцедуры OR КонецФункции OR КонецЦикла OR КонецЕсли OR EndProcedure OR EndFunction in:file extension:os");
+ВыполнитьПоиск("КонецПроцедуры OR КонецФункции OR КонецЦикла OR КонецЕсли OR EndProcedure OR EndFunction in:file extension:bsl");
 ВывестиРезультатыПоиска();
